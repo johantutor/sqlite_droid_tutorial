@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7917730825d51078a3ecbe33ededcd73e7f84847/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3d8aa3645bcf43cec7d8ee29d7e4758e23536471/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_70af37b05ab5041fc3ed360696a46e51414f0c94/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_e565b0029d7b452979fcac887391bea90a1c3d33/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f801793e579056d77c71af9b265ed0cf2fa631a">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6f111a0d4631747682a6a3219e1ba29cc714c07d/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dacff6d99a62908321b65ab2b20b5f1edeebfcf0">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84b17487fc16236bb7e8c2bea63eb060963e1dbf/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Downloads/TestSQlite/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_339df87e38ddb9f1ac6c4e25c342cf92f85ac9e1/classes.dex" />
+    </item>
+    <item
+        jar="/home/johan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/johan/Downloads/TestSQlite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_6c10ddb74b9ce44a8224614c3fc2ba30b605c7bb/classes.dex" />
+    </item>
+
+</items>
